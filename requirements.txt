@@ -1,0 +1,9 @@
+django>=5.2
+djangorestframework
+django-cors-headers
+django-tenants
+psycopg2-binary
+python-dotenv
+djangorestframework-simplejwt
+whitenoise
+django-debug-toolbar
